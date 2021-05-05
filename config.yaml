@@ -1,0 +1,215 @@
+# Project definitions (do not edit)
+Task: joshTrainData
+scorer: Zane Kashlan
+date: Oct2
+
+# Project path (change when moving around)
+project_path: C:\DeepLab\joshdata\joshTrainData-Zane Kashlan-2020-10-02
+
+# Annotation data set configuration (and individual video cropping parameters)
+video_sets:
+  C:\DeepLab\joshdata\HySyn_AgeMatchedParalysis\PN_HySyn\8212_0001.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\HySyn_AgeMatchedParalysis\PN_HySyn\8212_0002.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\HySyn_AgeMatchedParalysis\PN_HySyn\8212_0003.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\HySyn_AgeMatchedParalysis\PN_HySyn\8212_0004.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\HySyn_AgeMatchedParalysis\PN_HySyn\8212_0005.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\HySyn_AgeMatchedParalysis\PN_HySyn\8212_0006.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\HySyn_AgeMatchedParalysis\PN_HySyn\8212x8423_het_0001.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\HySyn_AgeMatchedParalysis\PN_HySyn\8212x8423_het_0002.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\HySyn_AgeMatchedParalysis\PN_HySyn\8212x8423_het_0003.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\HySyn_AgeMatchedParalysis\PN_HySyn\8212x8423_het_0004.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\HySyn_AgeMatchedParalysis\PN_HySyn\8212x8423_het_0005.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\HySyn_AgeMatchedParalysis\PN_HySyn\8212x8423_het_0006.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\HySyn_AgeMatchedParalysis\PN_HySyn\8423_0001.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\HySyn_AgeMatchedParalysis\PN_HySyn\8423_0002.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\HySyn_AgeMatchedParalysis\PN_HySyn\8423_0005.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\HySyn_AgeMatchedParalysis\PN_HySyn\8423_0008.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\HySyn_AgeMatchedParalysis\PN_HySyn\8423_0009.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\HySyn_AgeMatchedParalysis\PN_Muscle_HySyn\PN_Muscle_HySyn\8422_0005.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\HySyn_AgeMatchedParalysis\PN_Muscle_HySyn\PN_Muscle_HySyn\8422_0006.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\HySyn_AgeMatchedParalysis\PN_Muscle_HySyn\PN_Muscle_HySyn\8422_0010.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\HySyn_AgeMatchedParalysis\PN_Muscle_HySyn\PN_Muscle_HySyn\8422_0011.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\HySyn_AgeMatchedParalysis\PN_Muscle_HySyn\PN_Muscle_HySyn\8422_0012.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\HySyn_AgeMatchedParalysis\PN_Muscle_HySyn\PN_Muscle_HySyn\8422_0014.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\HySyn_AgeMatchedParalysis\PN_Muscle_HySyn\PN_Muscle_HySyn\8422_0016.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\HySyn_AgeMatchedParalysis\PN_Muscle_HySyn\PN_Muscle_HySyn\84212x8422_0001.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\HySyn_AgeMatchedParalysis\PN_Muscle_HySyn\PN_Muscle_HySyn\84212x8422_0002.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\HySyn_AgeMatchedParalysis\PN_Muscle_HySyn\PN_Muscle_HySyn\84212x8422_0003.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\HySyn_AgeMatchedParalysis\PN_Muscle_HySyn\PN_Muscle_HySyn\84212x8422_0004.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\HySyn_AgeMatchedParalysis\PN_Muscle_HySyn\PN_Muscle_HySyn\84212x8422_0006.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\HySyn_AgeMatchedParalysis\unc47_HySyn\unc47_HySyn\8414_0001.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\HySyn_AgeMatchedParalysis\unc47_HySyn\unc47_HySyn\8414_0002.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\HySyn_AgeMatchedParalysis\unc47_HySyn\unc47_HySyn\8414_0003.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\HySyn_AgeMatchedParalysis\unc47_HySyn\unc47_HySyn\8414_0004.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\HySyn_AgeMatchedParalysis\unc47_HySyn\unc47_HySyn\8414_0006.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\HySyn_AgeMatchedParalysis\unc47_HySyn\unc47_HySyn\8414_0008.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\HySyn_AgeMatchedParalysis\unc47_HySyn\unc47_HySyn\8414x8212_0001.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\HySyn_AgeMatchedParalysis\unc47_HySyn\unc47_HySyn\8414x8212_0004.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\HySyn_AgeMatchedParalysis\unc47_HySyn\unc47_HySyn\8414x8212_0006.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\HySyn_AgeMatchedParalysis\unc47_HySyn\unc47_HySyn\8414x8212_0007.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\HySyn_AgeMatchedParalysis\unc47_HySyn\unc47_HySyn\8414x8212_0008.avi:
+    crop: 0, 720, 0, 480
+
+  C:\DeepLab\joshdata\joshTrainData-Zane Kashlan-2020-10-02\ForZane\For Zane\WL_8414_ctrl\8414_3.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\joshTrainData-Zane Kashlan-2020-10-02\ForZane\For Zane\WL_8414_ctrl\8414_5.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\joshTrainData-Zane Kashlan-2020-10-02\ForZane\For Zane\WL_8414_ctrl\8414_7.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\joshTrainData-Zane Kashlan-2020-10-02\ForZane\For Zane\WL_8414_ctrl\8414_8.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\joshTrainData-Zane Kashlan-2020-10-02\ForZane\For Zane\WL_8414_ctrl\8414_12.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\joshTrainData-Zane Kashlan-2020-10-02\ForZane\For Zane\WL_8414x8456\8414x8456_0002.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\joshTrainData-Zane Kashlan-2020-10-02\ForZane\For Zane\WL_8414x8456\8414x8456_0003.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\joshTrainData-Zane Kashlan-2020-10-02\ForZane\For Zane\WL_8414x8456\8414x8456_0004.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\joshTrainData-Zane Kashlan-2020-10-02\ForZane\For Zane\WL_8414x8456\8414x8456_0005.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\joshTrainData-Zane Kashlan-2020-10-02\ForZane\For Zane\WL_8414x8456\8414x8456_0007.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\joshTrainData-Zane Kashlan-2020-10-02\ForZane\For Zane\WL_8414x8461\8414x8461_0004.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\joshTrainData-Zane Kashlan-2020-10-02\ForZane\For Zane\WL_8414x8461\8414x8461_0006.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\joshTrainData-Zane Kashlan-2020-10-02\ForZane\For Zane\WL_8414x8461\8414x8461_0007.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\joshTrainData-Zane Kashlan-2020-10-02\ForZane\For Zane\WL_8414x8461\8414x8461_0011.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\joshTrainData-Zane Kashlan-2020-10-02\ForZane\For Zane\WL_8414x8461\8414x8461_0026.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\joshTrainData-Zane Kashlan-2020-10-02\ForZane\For Zane\WL_8422_ctrl\8422_1.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\joshTrainData-Zane Kashlan-2020-10-02\ForZane\For Zane\WL_8422_ctrl\8422_3.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\joshTrainData-Zane Kashlan-2020-10-02\ForZane\For Zane\WL_8422_ctrl\8422_4.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\joshTrainData-Zane Kashlan-2020-10-02\ForZane\For Zane\WL_8422_ctrl\8422_5.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\joshTrainData-Zane Kashlan-2020-10-02\ForZane\For Zane\WL_8422_ctrl\8422_6.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\joshTrainData-Zane Kashlan-2020-10-02\ForZane\For Zane\WL_8422x8456\8422x8456_0001.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\joshTrainData-Zane Kashlan-2020-10-02\ForZane\For Zane\WL_8422x8456\8422x8456_0007.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\joshTrainData-Zane Kashlan-2020-10-02\ForZane\For Zane\WL_8422x8456\8422x8456_0009.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\joshTrainData-Zane Kashlan-2020-10-02\ForZane\For Zane\WL_8422x8456\8422x8456_0010.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\joshTrainData-Zane Kashlan-2020-10-02\ForZane\For Zane\WL_8422x8456\8422x8456_0011.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\joshTrainData-Zane Kashlan-2020-10-02\ForZane\For Zane\WL_8422x8461\8422x84610001.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\joshTrainData-Zane Kashlan-2020-10-02\ForZane\For Zane\WL_8422x8461\8422x84610002.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\joshTrainData-Zane Kashlan-2020-10-02\ForZane\For Zane\WL_8422x8461\8422x84610004.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\joshTrainData-Zane Kashlan-2020-10-02\ForZane\For Zane\WL_8422x8461\8422x84610005.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\joshTrainData-Zane Kashlan-2020-10-02\ForZane\For Zane\WL_8422x8461\8422x84610006.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\joshTrainData-Zane Kashlan-2020-10-02\ForZane\For Zane\WL_8456_ctrl\8456_0002.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\joshTrainData-Zane Kashlan-2020-10-02\ForZane\For Zane\WL_8456_ctrl\8456_0003.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\joshTrainData-Zane Kashlan-2020-10-02\ForZane\For Zane\WL_8456_ctrl\8456_0004.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\joshTrainData-Zane Kashlan-2020-10-02\ForZane\For Zane\WL_8456_ctrl\8456_0005.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\joshTrainData-Zane Kashlan-2020-10-02\ForZane\For Zane\WL_8456_ctrl\8456_0006.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\joshTrainData-Zane Kashlan-2020-10-02\ForZane\For Zane\WL_8461_ctrl\8461_0003.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\joshTrainData-Zane Kashlan-2020-10-02\ForZane\For Zane\WL_8461_ctrl\8461_0004.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\joshTrainData-Zane Kashlan-2020-10-02\ForZane\For Zane\WL_8461_ctrl\8461_0005.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\joshTrainData-Zane Kashlan-2020-10-02\ForZane\For Zane\WL_8461_ctrl\8461_0007.avi:
+    crop: 0, 720, 0, 480
+  C:\DeepLab\joshdata\joshTrainData-Zane Kashlan-2020-10-02\ForZane\For Zane\WL_8461_ctrl\8461_0010.avi:
+    crop: 0, 720, 0, 480
+bodyparts:
+- head
+- AFD Soma
+- neck
+- bodypart4
+- bodypart5
+- vulva
+- bodypart6
+- tail
+start: 0
+stop: 1
+numframes2pick: 15
+
+# Plotting configuration
+skeleton: [[head, AFD soma, neck, bodypart4, bodypart5, vulva, bodypart6, tail]]
+skeleton_color: white
+pcutoff: 0.9
+dotsize: 2
+alphavalue: 0.7
+colormap: jet
+
+# Training,Evaluation and Analysis configuration
+TrainingFraction:
+- 0.95
+iteration: 0
+resnet:
+snapshotindex: -1
+batch_size: 8
+
+# Cropping Parameters (for analysis and outlier frame detection)
+cropping: false
+#if cropping is true for analysis, then set the values here:
+x1: 0
+x2: 640
+y1: 277
+y2: 624
+
+# Refinement configuration (parameters from annotation dataset configuration also relevant in this stage)
+corner2move2:
+- 50
+- 50
+move2corner: true
+default_net_type: resnet_50
+default_augmenter: default
