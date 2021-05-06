@@ -15,5 +15,5 @@ Methods overview: Synchronized young adult nematode populations were washed in M
 
 
 
-Head Thrashing Analysis
+# Head Thrashing Analysis
 
