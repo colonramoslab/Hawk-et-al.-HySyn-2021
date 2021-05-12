@@ -5,7 +5,7 @@
 - [Overview](#overview)
 - [System Requirements and Instillation Guide](#system-requirements-and-instillation-guide)
 - [Dispersion Assay Tracking Analysis & Dispersion Assay Tracking/Speed Analysis](#Dispersion-Assay-Tracking-Analysis-&-Dispersion-Assay-Tracking/Speed-Analysis)
-- [Head Trashing Analysis](#head-trashing-analysis)
+- [Head Thrashing Analysis](#head-thrashing-analysis)
 - [Citations](#Citations)
 - [License](#license)
 
@@ -30,3 +30,5 @@ Hawk JD, et al. Integration of Plasticity Mechanisms within a Single Sensory Neu
 Luo L, et al. Bidirectional thermotaxis in Caenorhabditis elegans is mediated by distinct sensorimotor strategies driven by the AFD thermosensory neurons. Proc Natl Acad Sci U S A 111, 2776-2781 (2014).
 
 # License
+
+https://github.com/colonramoslab/Hawk-et-al.-HySyn-2021/blob/beb04a038bfa8ba9a3e0cdb68b20a6ac855df303/LICENSE
