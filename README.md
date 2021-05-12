@@ -4,7 +4,8 @@
 
 - [Overview](#overview)
 - [System Requirements and Instillation Guide](#system-requirements-and-Instillation-Guide)
-- [Dispersion Assay Tracking Analysis and Dispersion Assay Tracking/Speed Analysis](#Dispersion-Assay-Tracking-Analysis-and-Dispersion-Assay-Tracking/Speed-Analysis)
+- [Dispersion Assay Tracking Analysis & Dispersion Assay Tracking/Speed Analysis](#Dispersion-Assay-Tracking-Analysis-&-Dispersion-Assay-Tracking/Speed-Analysis)
+- [Head Trashing Analysis](#Head-Trashing-Analysis)
 - [Citations](#Citations)
 - [License](#license)
 
