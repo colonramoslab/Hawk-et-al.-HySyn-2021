@@ -1,8 +1,11 @@
-# HySyn: A genetically encoded tool for reconstituting synthetic modulatory neurotransmission and reconnect neural circuits in vivo
+# HySyn: A genetically-encoded synthetic modulatory synapse to rewire neural circuits in vivo
 
 ## Contents
 
 # Overview
+
+
+
 
 # Dispersion Assay Tracking Analysis & Dispersion Assay Tracking/Speed Analysis
 
@@ -12,4 +15,8 @@ The purpose of this code was to monitor c. elegans migration on an agar pad over
 
 # Head Thrashing Analysis
 
-# Citation
+# Citations
+
+Hawk JD, et al. Integration of Plasticity Mechanisms within a Single Sensory Neuron of C. elegans Actuates a Memory. Neuron 97, 356-367 e354 (2018). Gershow M, et al. Controlling airborne cues to study small animal navigation. Nat Methods 9, 290-296 (2012).
+
+Luo L, et al. Bidirectional thermotaxis in Caenorhabditis elegans is mediated by distinct sensorimotor strategies driven by the AFD thermosensory neurons. Proc Natl Acad Sci U S A 111, 2776-2781 (2014).
