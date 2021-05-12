@@ -13,7 +13,7 @@
 
 HySyN is a system designed to rewire neural connectivity in vivo by reconstituting synthetic modulatory neurotransmission. We demonstrate that genetically targeted expression of the two HySyn components, a Hydra-derived neuropeptide and its receptor, createsde novoneuromodulatory transmission in a mammalian neuronal tissue culture  model  and  rewires  a  behavioral  circuit in  vivoin  the  nematode Caenorhabditis elegans. For this project, C. elegans behavior and speed was tracked using the below described code adn techniques. The code is available for installation on all major platforms (e.g. Windows, Linux, OS X) and GitHub. 
 
-# System Requirements and Instillation Guide
+# System Requirements and Installation Guide
 
 ## Hardware Requirements
 
