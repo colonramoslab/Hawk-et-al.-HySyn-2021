@@ -3,7 +3,7 @@
 ## Contents
 
 - [Overview](#overview)
-- [System Requirements and Instillation Guide](#system-requirements-and-instillation-guide)
+- [System Requirements and Installation Guide](#system-requirements-and-installation-guide)
 - [Dispersion Assay Tracking Analysis & Dispersion Assay Tracking/Speed Analysis](#Dispersion-Assay-Tracking-Analysis-&-Dispersion-Assay-Tracking/Speed-Analysis)
 - [Head Thrashing Analysis](#head-thrashing-analysis)
 - [Citations](#Citations)
