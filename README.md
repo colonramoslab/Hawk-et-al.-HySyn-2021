@@ -36,7 +36,9 @@ The purpose of this code was to analyze head thrashing movement of the C. elegan
 
 # Citations
 
-Hawk JD, et al. Integration of Plasticity Mechanisms within a Single Sensory Neuron of C. elegans Actuates a Memory. Neuron 97, 356-367 e354 (2018). Gershow M, et al. Controlling airborne cues to study small animal navigation. Nat Methods 9, 290-296 (2012).
+Hawk JD, et al. Integration of Plasticity Mechanisms within a Single Sensory Neuron of C. elegans Actuates a Memory. Neuron 97, 356-367 e354 (2018). 
+
+Gershow M, et al. Controlling airborne cues to study small animal navigation. Nat Methods 9, 290-296 (2012).
 
 Luo L, et al. Bidirectional thermotaxis in Caenorhabditis elegans is mediated by distinct sensorimotor strategies driven by the AFD thermosensory neurons. Proc Natl Acad Sci U S A 111, 2776-2781 (2014).
 
