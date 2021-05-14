@@ -42,6 +42,8 @@ Gershow M, et al. Controlling airborne cues to study small animal navigation. Na
 
 Luo L, et al. Bidirectional thermotaxis in Caenorhabditis elegans is mediated by distinct sensorimotor strategies driven by the AFD thermosensory neurons. Proc Natl Acad Sci U S A 111, 2776-2781 (2014).
 
+Mathis A, et al.DeepLabCut: markerless pose estimation of user-defined body parts with deep learning. Nat Neurosci21, 1281-1289 (2018).
+
 Nath T, Mathis A, Chen AC, Patel A, Bethge M, Mathis MW. Using DeepLabCut for 3D markerless pose estimation across species and behaviors. Nat Protoc14, 2152-2176 (2019).
 
 # License
